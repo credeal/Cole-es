@@ -1,0 +1,7 @@
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\bin\Debug\CollectionLinq.exe.config
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\bin\Debug\CollectionLinq.exe
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\bin\Debug\CollectionLinq.pdb
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\obj\Debug\CollectionLinq.csprojAssemblyReference.cache
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\obj\Debug\CollectionLinq.csproj.CoreCompileInputs.cache
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\obj\Debug\CollectionLinq.exe
+C:\Users\21145\Documents\Developer\C#\C-Sharp\Coleções ordenadas, arrays multidimensionais e Linq\Collections\CollectionLinq\obj\Debug\CollectionLinq.pdb
