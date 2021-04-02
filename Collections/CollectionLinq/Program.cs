@@ -10,15 +10,17 @@ namespace CollectionLinq
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Sem LinQ: ");
-            Console.WriteLine();
-            SemLinq();
+            //Console.WriteLine("Sem LinQ: ");
+            //Console.WriteLine();
+            //SemLinq();
 
-            Console.WriteLine();
+            //Console.WriteLine();
 
-            Console.WriteLine("Com LinQ: ");
-            Console.WriteLine();
-            ComLinq();
+            //Console.WriteLine("Com LinQ: ");
+            //Console.WriteLine();
+            //ComLinq();
+
+           
         }
     }
 }
