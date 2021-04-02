@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="03_SortedSet.cs" />
+    <Compile Include="Aluno.cs" />
+    <Compile Include="SortedDictionary.cs" />
+    <Compile Include="SortedList.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
